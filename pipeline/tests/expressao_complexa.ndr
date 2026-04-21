@@ -1,0 +1,5 @@
+-- Programa: expressao_complexa
+-- Linguagem: NDR (Neander Description Language)
+-- Descricao: calcula 10 + 4 * 3 - 2 e armazena o resultado
+
+calcular 10 + 4 * 3 - 2 -> resultado

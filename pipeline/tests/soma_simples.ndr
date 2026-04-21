@@ -1,0 +1,5 @@
+-- Programa: soma_simples
+-- Linguagem: NDR (Neander Description Language)
+-- Descricao: calcula (3 + 5) * 2 e armazena o resultado
+
+calcular (3 + 5) * 2 -> resultado
